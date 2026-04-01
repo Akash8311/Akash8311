@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0d0221&height=200&section=header&text=AKASH%20MAITY&fontSize=52&fontColor=c4b5fd&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18&descColor=7c3aed&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0d0221&height=200&section=header&text=AKASH%20MAITY&fontSize=52&fontColor=c4b5fd&fontAlignY=38&desc=Full-StackSize=18&descColor=7c3aed&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1200&color=A78BFA&background=00000000&center=true&vCenter=true&width=800&lines=%3E+initializing_portfolio.exe...;%3E+Loading+full-stack+modules...;%3E+Compiling+ideas+into+code...;%3E+Deploying+to+production...;%3E+Hello%2C+World!+I+build+things."/>
 
