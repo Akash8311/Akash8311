@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0d0221&height=200&section=header&text=AKASH%20MAITY&fontSize=52&fontColor=c4b5fd&fontAlignY=38&desc=Full-StackSize=18&descColor=7c3aed&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0d0221&height=200&section=header&text=AKASH%20MAITY&fontSize=52&fontColor=c4b5fd&fontAlignY=38&desc=Full-Stack&descColor=7c3aed&animation=fadeIn"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1200&color=A78BFA&background=00000000&center=true&vCenter=true&width=800&lines=%3E+initializing_portfolio.exe...;%3E+Loading+full-stack+modules...;%3E+Compiling+ideas+into+code...;%3E+Deploying+to+production...;%3E+Hello%2C+World!+I+build+things."/>
 
@@ -84,8 +84,7 @@ const akash: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZfLuviePOqQJ1yuhvxr80AsqV91Btr2rqZw&s"/>
-<img width="49%" src="https://cdn.mos.cms.futurecdn.net/W5LnBksnN2E3PTCdgDF9g3.png"/>
+
 
 <br/>
 
@@ -108,10 +107,9 @@ const akash: Developer = {
 <div align="center">
 
 <a href="https://github.com/akashmaity">
-  <img src="https://mir-s3-cdn-cf.behance.net/projects/404/d86b58245587973.Y3JvcCwxNjE2LDEyNjQsMCww.png"/>
+ 
 </a>
 <a href="https://github.com/akashmaity">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZmtOsxSSaaSwSv2uhQVcjzv-jJZO-59Dcw&s"/>
 </a>
 
 </div>
@@ -135,6 +133,13 @@ const akash: Developer = {
 ```
 
 ---
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/aa7c88c4-d970-4e09-9195-da25f8d81bd7" height="160" style="margin:8px; border-radius:12px;"/>
+  <img src="https://github.com/user-attachments/assets/7518ede5-224d-4351-8690-36790b20e89b" height="160" style="margin:8px; border-radius:12px;"/>
+  <img src="https://github.com/user-attachments/assets/6d4701a6-d813-4833-be38-c51dd86fe6cd" height="160" style="margin:8px; border-radius:12px;"/>
+  <img src="https://github.com/user-attachments/assets/06e868b0-af86-434d-b615-cc2ac328347d" height="160" style="margin:8px; border-radius:12px;"/>
+</div>
+
 
 ## 🏆 GitHub Trophies
 
