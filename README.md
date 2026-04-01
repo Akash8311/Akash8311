@@ -1,181 +1,219 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0533,60:2d1b69,100:0d0221&height=200&section=header&text=AKASH%20MAITY&fontSize=52&fontColor=c4b5fd&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20Open%20Source%20Enthusiast&descAlignY=58&descSize=18&descColor=7c3aed&animation=fadeIn"/>
+<!-- EPIC HEADER - Fire/Cinematic Theme -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0a0000,30:1a0500,60:3d0f00,80:7c2200,100:c0390a&height=220&section=header&text=AKASH%20MAITY&fontSize=68&fontColor=ff6b1a&fontAlignY=42&stroke=ff4500&strokeWidth=2&desc=I+don%27t+just+write+code.+I+set+it+on+fire.&descAlignY=64&descSize=16&descColor=ff9a3c&animation=blinking"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1200&color=A78BFA&background=00000000&center=true&vCenter=true&width=800&lines=%3E+initializing_portfolio.exe...;%3E+Loading+full-stack+modules...;%3E+Compiling+ideas+into+code...;%3E+Deploying+to+production...;%3E+Hello%2C+World!+I+build+things."/>
+</div>
+
+<!-- FIRE TYPING ANIMATION -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=800&size=20&duration=2000&pause=800&color=FF6B1A&background=00000000&center=true&vCenter=true&width=900&lines=%F0%9F%94%A5+Shipping+production-grade+apps+since+day+one;%F0%9F%92%A5+Full-Stack+%7C+React+%7C+Next.js+%7C+Node.js;%E2%9A%A1+Building+the+future%2C+one+commit+at+a+time;%F0%9F%8C%8B+I+don%27t+walk+away+from+explosions+%E2%80%94+I+cause+them;%F0%9F%8E%AF+Clean+code.+Bold+ideas.+Zero+excuses."/>
+</div>
 
 <br/>
 
-<a href="https://linkedin.com/in/akash-maity-aa917b38a">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0f"/>
-</a>&nbsp;
-<a href="https://instagram.com/_phobicc.akash">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0a0f"/>
-</a>&nbsp;
-<a href="https://x.com/akashmaity">
-  <img src="https://img.shields.io/badge/X-ffffff?style=for-the-badge&logo=x&logoColor=black&labelColor=0a0a0f"/>
-</a>&nbsp;
-<a href="mailto:akash.bca.24.jisu@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0f"/>
-</a>&nbsp;
-<a href="https://github.com/akashmaity">
-  <img src="https://img.shields.io/github/followers/akashmaity?style=for-the-badge&logo=github&label=Follow&color=A78BFA&labelColor=0a0a0f"/>
-</a>
+<!-- SOCIAL BADGES - Fire colored -->
+<div align="center">
 
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0000)](https://linkedin.com/in/akash-maity-aa917b38a)&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0a0000)](https://instagram.com/_phobicc.akash)&nbsp;
+[![X](https://img.shields.io/badge/X-%23ffffff.svg?style=for-the-badge&logo=x&logoColor=black&labelColor=0a0000)](https://x.com/akashmaity)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0000)](mailto:akash.bca.24.jisu@gmail.com)&nbsp;
+[![GitHub](https://img.shields.io/github/followers/akashmaity?style=for-the-badge&logo=github&label=Follow&color=ff6b1a&labelColor=0a0000)](https://github.com/akashmaity)
 
 </div>
 
 ---
 
-<img align="right" width="360" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif"/>
+<!-- HERO SECTION WITH THE FIRE PIC -->
+<div align="center">
 
-<h2>⚡ <code>whoami</code></h2>
+### 💥 THE DEVELOPER WHO DOESN'T LOOK AT EXPLOSIONS
 
-```typescript
-const akash: Developer = {
-  name: "Akash Maity",
-  role: "Full-Stack Engineer",
-  location: "India 🇮🇳",
-  
-  stack: {
-    frontend: ["React", "Next.js", "TypeScript"],
-    backend:  ["Node.js", "Python", "Java"],
-    database: ["MySQL", "Firebase"],
-    deploy:   ["Vercel", "Netlify"],
+<img src="https://raw.githubusercontent.com/akashmaity/akashmaity/main/fire-pic.png" width="420" style="border-radius: 16px; border: 3px solid #ff6b1a;"/>
+
+> *"When the build fails, I don't panic. I was already on fire."*
+
+</div>
+
+---
+
+<!-- ABOUT ME - TERMINAL STYLE -->
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif"/>
+
+## ⚡ `$ cat whoami.json`
+
+```json
+{
+  "name":     "Akash Maity",
+  "title":    "Full-Stack Engineer 🔥",
+  "location": "India 🇮🇳",
+  "vibe":     "Standing in front of explosions since 2001",
+
+  "stack": {
+    "frontend":  ["React", "Next.js", "TypeScript", "CSS Magic"],
+    "backend":   ["Node.js", "Python", "Java", "C++"],
+    "database":  ["MySQL", "Firebase"],
+    "deploy":    ["Vercel", "Netlify", "GitHub Actions"]
   },
 
-  philosophy: [
-    "Clean code over clever code",
-    "Ship fast, iterate faster",
-    "Logic-driven problem solving",
+  "traits": [
+    "Logic > Hype",
+    "Ships > Talks",
+    "Debugs at 3AM",
+    "console.log() enthusiast 🔥"
   ],
 
-  currentlyLearning: "System Design & Cloud Architecture",
-  openTo: "Collaborations & OSS contributions",
-  funFact: "I debug with console.log and I'm not ashamed 🔥",
-};
+  "status":    "OPEN TO WORK 🟢",
+  "currently": "Mastering System Design",
+  "looking_for": "Collabs & OSS contributions"
+}
 ```
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Arsenal
+<!-- CONTRIBUTION SNAKE -->
+<div align="center">
+
+### 🐍 Watch Me Consume My Own Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</picture>
+
+</div>
+
+---
+
+<!-- TECH STACK - GROUPED WITH DARK ICONS -->
+## 🛠️ Arsenal
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css&theme=dark&perline=6" />
+**⚛️ Frontend & UI**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,figma&theme=dark&perline=8"/>
+
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,python,java,cpp,mysql,firebase&theme=dark&perline=6" />
+
+**🔧 Backend & Database**
+
+<img src="https://skillicons.dev/icons?i=nodejs,python,java,cpp,mysql,firebase,express,mongodb&theme=dark&perline=8"/>
+
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,figma&theme=dark&perline=6" />
+
+**🚀 DevOps & Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,vscode,postman,docker,linux&theme=dark&perline=8"/>
 
 </div>
 
 ---
 
-## 📊 GitHub Analytics
+<!-- STATS SECTION -->
+## 📊 Damage Report
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akashmaity&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=7c3aed&text_color=e2e8f0&count_private=true&rank_icon=github"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmaity&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e2e8f0&langs_count=8"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api?username=akashmaity&show_icons=true&theme=dark&hide_border=true&bg_color=0a0000&title_color=ff6b1a&icon_color=ff4500&text_color=ffb89a&count_private=true&rank_icon=percentile&include_all_commits=true"/>
+<img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmaity&layout=compact&theme=dark&hide_border=true&bg_color=0a0000&title_color=ff6b1a&text_color=ffb89a&langs_count=8&card_width=340"/>
 
-<br/>
+</div>
 
-<img width="70%" src="https://streak-stats.vercel.app?user=akashmaity&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=c4b5fd&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=a78bfa&dates=6b7280"/>
+<div align="center">
+
+<img src="https://streak-stats.vercel.app?user=akashmaity&theme=dark&hide_border=true&background=0A0000&ring=FF6B1A&fire=FF4500&currStreakLabel=FF6B1A&sideLabels=FF9A3C&dates=885533&stroke=FF6B1A00" width="70%"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Map
+<!-- CONTRIBUTION GRAPH - FIRE COLORS -->
+## 📈 Heat Map
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akashmaity&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=2d1b69&hide_border=true&custom_title=Akash's%20Contribution%20Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashmaity&bg_color=0a0000&color=ff6b1a&line=ff4500&point=ffb89a&area=true&area_color=3d0f00&hide_border=true&custom_title=Akash%27s%20Fire%20Contribution%20Graph" width="100%"/>
 </div>
 
 ---
 
-## 🚀 Featured Projects
+<!-- PROJECTS - ASCII ART STYLE -->
+## 🚀 Projects That Didn't Burn Down
 
 <div align="center">
-
-<a href="https://github.com/akashmaity">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashmaity&repo=NovaExam&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=7c3aed&text_color=e2e8f0"/>
-</a>
-<a href="https://github.com/akashmaity">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashmaity&repo=expense-monitor&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=7c3aed&text_color=e2e8f0"/>
-</a>
-
-</div>
-
-<br/>
 
 ```
-╔═══════════════════════════════════════════════════════════════════╗
-║  🧪 NovaExam         Online exam platform with real-time          ║
-║                      proctoring & analytics dashboard             ║
-║                      Stack: React · Node.js · Firebase            ║
-╠═══════════════════════════════════════════════════════════════════╣
-║  💸 ExpenseMonitor   Smart tracker with visual breakdowns         ║
-║                      & budget forecasting                         ║
-║                      Stack: React · Chart.js · MySQL              ║
-╠═══════════════════════════════════════════════════════════════════╣
-║  🛍️ React E-Commerce  Full-featured storefront with cart,         ║
-║                      auth & product filtering                     ║
-║                      Stack: React · Context API · CSS             ║
-╚═══════════════════════════════════════════════════════════════════╝
+  ╔══════════════════════════════════════════════════════════════════╗
+  ║  🧪  N O V A E X A M                                            ║
+  ║  ─────────────────────────────────────────────────────────────  ║
+  ║  Online exam platform · Real-time proctoring · Analytics        ║
+  ║  Stack → React  ·  Node.js  ·  Firebase  ·  WebSockets         ║
+  ╠══════════════════════════════════════════════════════════════════╣
+  ║  💸  E X P E N S E  M O N I T O R                               ║
+  ║  ─────────────────────────────────────────────────────────────  ║
+  ║  Smart tracker · Visual analytics · Budget forecasting          ║
+  ║  Stack → React  ·  Chart.js  ·  MySQL  ·  Node.js              ║
+  ╠══════════════════════════════════════════════════════════════════╣
+  ║  🛍️  R E A C T  E - C O M M E R C E                             ║
+  ║  ─────────────────────────────────────────────────────────────  ║
+  ║  Full storefront · Cart & auth · Product filtering              ║
+  ║  Stack → React  ·  Context API  ·  CSS  ·  Vercel              ║
+  ╚══════════════════════════════════════════════════════════════════╝
 ```
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akashmaity&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
 </div>
 
 ---
 
-## 💬 Dev Quote
+<!-- TROPHIES -->
+## 🏆 Hall of Flame
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://github-profile-trophy.vercel.app/?username=akashmaity&theme=darkhub&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
 </div>
 
 ---
 
+<!-- QUOTE -->
+## 🔥 Today's Fuel
+
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
+</div>
+
+---
+
+<!-- FOOTER -->
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=akashmaity&style=for-the-badge&color=7c3aed&labelColor=0d1117&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=akashmaity&style=for-the-badge&color=ff4500&labelColor=0a0000&label=DETONATIONS"/>
 &nbsp;
-<img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK-00d26a?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/STATUS-ON%20FIRE%20🔥-ff4500?style=for-the-badge&labelColor=0a0000"/>
+&nbsp;
+<img src="https://img.shields.io/badge/OPEN%20TO-WORK%20🟢-00d26a?style=for-the-badge&labelColor=0a0000"/>
 
 <br/><br/>
 
 ```
-╔══════════════════════════════════════════════════════╗
-║                                                      ║
-║   "First, solve the problem. Then, write the code."  ║
-║                                   — John Johnson     ║
-║                                                      ║
-║        Building tomorrow, one commit at a time 🚀    ║
-║                                                      ║
-╚══════════════════════════════════════════════════════╝
+  ██████████████████████████████████████████████████████████████
+  █                                                            █
+  █   "The code doesn't care about your feelings.             █
+  █    But a good README might."   — Akash Maity, probably    █
+  █                                                            █
+  █         🔥  Keep shipping. Keep burning.  🔥              █
+  █                                                            █
+  ██████████████████████████████████████████████████████████████
 ```
 
 <a href="https://github.com/akashmaity">
-  <img src="https://img.shields.io/badge/⭐_Star_my_repos_if_helpful!-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=1a0533"/>
+<img src="https://img.shields.io/badge/⭐_Drop_a_star_if_this_didn't_bore_you-FF6B1A?style=for-the-badge&logo=github&logoColor=white&labelColor=3d0f00"/>
 </a>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,30:2d1b69,70:1a0533,100:0a0a0f&height=130&section=footer&animation=fadeIn"/>
+<!-- FIRE FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0000,40:3d0f00,70:7c2200,100:c0390a&height=130&section=footer&animation=fadeIn"/>
