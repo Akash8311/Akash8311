@@ -84,8 +84,8 @@ const akash: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=akashmaity&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=7c3aed&text_color=e2e8f0&count_private=true&rank_icon=github"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akashmaity&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e2e8f0&langs_count=8"/>
+<img width="49%" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZfLuviePOqQJ1yuhvxr80AsqV91Btr2rqZw&s"/>
+<img width="49%" src="https://cdn.mos.cms.futurecdn.net/W5LnBksnN2E3PTCdgDF9g3.png"/>
 
 <br/>
 
@@ -108,10 +108,10 @@ const akash: Developer = {
 <div align="center">
 
 <a href="https://github.com/akashmaity">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashmaity&repo=NovaExam&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=7c3aed&text_color=e2e8f0"/>
+  <img src="https://mir-s3-cdn-cf.behance.net/projects/404/d86b58245587973.Y3JvcCwxNjE2LDEyNjQsMCww.png"/>
 </a>
 <a href="https://github.com/akashmaity">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=akashmaity&repo=expense-monitor&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=7c3aed&text_color=e2e8f0"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfZmtOsxSSaaSwSv2uhQVcjzv-jJZO-59Dcw&s"/>
 </a>
 
 </div>
@@ -139,7 +139,7 @@ const akash: Developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=akashmaity&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7"/>
+  <img src="https://i.pinimg.com/originals/55/01/60/5501609ee45d514d1f2c4a63502045e2.gif"/>
 </div>
 
 ---
