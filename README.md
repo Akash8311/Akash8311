@@ -140,7 +140,7 @@ const akash: Developer = {
   <img src="https://github.com/user-attachments/assets/06e868b0-af86-434d-b615-cc2ac328347d" height="160" style="margin:8px; border-radius:12px;"/>
 </div>
 
-
+##
 
 <div align="center">
   <img src="https://i.pinimg.com/originals/55/01/60/5501609ee45d514d1f2c4a63502045e2.gif"/>
