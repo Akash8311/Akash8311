@@ -19,10 +19,9 @@
 <td width="55%" valign="top">
 
 ```typescript
-/**
- * @author   Akash Maity
- * @role     Full-Stack Developer
- * @status   Open to Work ✦
+
+ author   Akash Maity
+ status   Open to Work ✦
  */
 
 class Developer {
