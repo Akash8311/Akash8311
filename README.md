@@ -22,7 +22,6 @@
 
  author   Akash Maity
  status   Open to Work ✦
- */
 
 class Developer {
   name     = "Akash Maity";
