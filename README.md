@@ -109,23 +109,6 @@ class Developer {
 
 </div>
 
----
-
-<div align="center">
-
-## ◈ &nbsp;Contribution Graph&nbsp; ◈
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashmaity&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=2d1b69&hide_border=true&custom_title=Akash's%20Contribution%20Graph"/>
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-</picture>
-
-</div>
 
 ---
 
@@ -154,11 +137,11 @@ class Developer {
 
 <td width="33%" valign="top">
 
-### 💸 &nbsp;ExpenseMonitor
-> Smart expense tracker with visual breakdowns & budget forecasting
+### 🤖 &nbsp;AI Resume Builder
+> AI-powered resume generator with smart templates & real-time preview
 
 **Stack**
-`React` &nbsp; `Chart.js` &nbsp; `MySQL`
+`React` &nbsp; `Node.js` &nbsp; `Claude AI`
 
 [![Repo](https://img.shields.io/badge/View%20Repo-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/akashmaity)
 
