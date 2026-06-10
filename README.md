@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Akash%20Maity&fontSize=58&fontColor=ffffff&fontAlignY=50&desc=Full-Stack%20Developer&descSize=20&descColor=a78bfa&descAlignY=72&animation=blinking"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,70:6d28d9,100:a78bfa&height=220&section=header&text=Akash%20Maity&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=✦&descSize=18&descColor=c4b5fd&descAlignY=65&animation=fadeIn"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Akash+%F0%9F%91%8B;Full-Stack+Developer+from+;I+build+things+for+the+web+%F0%9F%9A%80;Clean+code+%7C+Fast+ships+%7C+Smart+solutions)](https://git.io/typing-svg)
 
 </div>
 
@@ -19,9 +27,11 @@
 
 class Developer {
   name     = "Akash Maity";
-  location = "West Bengal, India 🇮🇳";
+ 
 
   stack = {
+    languages: ["C", "C++", "Python", "Java",
+                "JavaScript", ],
     frontend : ["React", "Next.js", "TypeScript"],
     backend  : ["Node.js", "Python", "Java"],
     database : ["MySQL", "Firebase"],
@@ -46,10 +56,10 @@ class Developer {
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-maity-aa917b38a)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/_phobicc.akash)
-[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/akashmaity)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:akash.bca.24.jisu@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akash-maity-aa917b38a)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_phobicc.akash)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/akashmaity)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akash.bca.24.jisu@gmail.com)
 
 </td>
 </tr>
@@ -63,24 +73,28 @@ class Developer {
 
 <br/>
 
-**Frontend**
+**💻 Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**🎨 Frontend**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Backend & Database**
+**⚙️ Backend & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-**Tools & Deployment**
+**🚀 Tools & Deployment**
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -107,8 +121,11 @@ class Developer {
 
 <img width="68%" src="https://streak-stats.vercel.app?user=akashmaity&theme=tokyonight-duo&hide_border=true&background=0D1117&ring=c4b5fd&fire=7c3aed&currStreakLabel=c4b5fd&sideLabels=a78bfa&dates=6b7280"/>
 
-</div>
+<br/><br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akashmaity&bg_color=0D1117&color=a78bfa&line=7c3aed&point=c4b5fd&area=true&hide_border=true" width="95%"/>
+
+</div>
 
 ---
 
@@ -131,7 +148,7 @@ class Developer {
 **Stack**
 `React` &nbsp; `Node.js` &nbsp; `Firebase`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/akashmaity)
+[![Repo](https://img.shields.io/badge/View%20Repo-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashmaity)
 
 </td>
 
@@ -143,7 +160,7 @@ class Developer {
 **Stack**
 `React` &nbsp; `Node.js` &nbsp; `Claude AI`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/akashmaity)
+[![Repo](https://img.shields.io/badge/View%20Repo-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashmaity)
 
 </td>
 
@@ -155,12 +172,32 @@ class Developer {
 **Stack**
 `React` &nbsp; `Context API` &nbsp; `CSS`
 
-[![Repo](https://img.shields.io/badge/View%20Repo-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/akashmaity)
+[![Repo](https://img.shields.io/badge/View%20Repo-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashmaity)
 
 </td>
 
 </tr>
 </table>
+
+---
+
+<div align="center">
+
+## ◈ &nbsp;Competitive Programming&nbsp; ◈
+
+<br/>
+
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)
+![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
+
+> *Solving problems with C / C++ / Python — one algorithm at a time* 🧠
+
+</div>
+
+---
+
+
 
 ---
 
@@ -188,14 +225,14 @@ class Developer {
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=akashmaity&style=flat-square&color=7c3aed&labelColor=0d1117&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=akashmaity&style=for-the-badge&color=7c3aed&labelColor=0d1117&label=Profile+Views)
 &nbsp;
-![Status](https://img.shields.io/badge/Status-Open%20to%20Work-00d26a?style=flat-square&labelColor=0d1117)
+![Status](https://img.shields.io/badge/Status-Open%20to%20Work-00d26a?style=for-the-badge&labelColor=0d1117)
 &nbsp;
-[![Stars](https://img.shields.io/badge/⭐%20Star%20my%20repos!-a78bfa?style=flat-square&logo=github&logoColor=white)](https://github.com/akashmaity)
+[![Stars](https://img.shields.io/badge/⭐%20Star%20my%20repos!-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akashmaity)
 
 <br/>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer&animation=blinking"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a78bfa,40:6d28d9,70:302b63,100:0f0c29&height=160&section=footer&animation=fadeIn"/>
